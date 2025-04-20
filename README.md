@@ -4,7 +4,7 @@ This project was a personal experiment to explore the current state of LLM-based
 
 From the outset I did NOT expect to get a working result, so I have to admit I am surprised with that. Although, this code is not maintainable by me what-so-ever. I know absolutely nothing more about TTF than I did when I started, and I didn't read a single line of this program. I have no idea how it works (aside from intuition and having been the one to describe what to build).
 
-It was an informative experience, but god help us all if this becomes the standard quo. More or less a miserable experience.
+It was an informative experience, but god help us all if this becomes the status quo. More or less a miserable experience.
 
 From:
 ![image](https://github.com/user-attachments/assets/b21e65c7-b1c7-423c-b9cb-7b97675328ed)
